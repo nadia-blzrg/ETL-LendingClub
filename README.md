@@ -218,10 +218,15 @@ Data Scientist | Data Analyst | Business Intelligence
 
 📧 Ajouter votre adresse e-mail
 
-🔗 LinkedIn : *(Ajouter votre profil LinkedIn)*
+
 
 🐙 GitHub : https://github.com/nadia-blzrg
 
 ---
 
 ## ⭐ N'hésitez pas à laisser une étoile si ce projet vous a intéressé !
+
+Dataset :
+Lending Club Loan Data (Kaggle)
+
+Le fichier source n'est pas inclus dans ce dépôt en raison de sa taille (>2 Go).
